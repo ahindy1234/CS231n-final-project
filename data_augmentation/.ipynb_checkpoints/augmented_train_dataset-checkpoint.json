@@ -1,0 +1,2438 @@
+{
+    "what is the Alex desk": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "for the Alex desk, what are the warnings I should know of?": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "for the Alex desk, what parts do I need?": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "for the Alex desk, what is the first step?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "for the Alex desk, what is the second step?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "for the Alex desk, how many nails do I need for step one?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "for the Alex desk, how many parts do I need for step two?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "what is the Pahl desk": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "for the Pahl desk, what are the warnings I should know of?": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "for the Pahl desk, what parts do I need?": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "for the Pahl desk, what is the first step?": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "for the Pahl desk, what is the second step?": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "for the Pahl desk, how many nails do I need for step one?": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "for the Pahl desk, how many parts do I need for step two?": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "what is the Fredrik desk": [
+        907,
+        908,
+        909,
+        910,
+        911
+    ],
+    "for the Fredrik desk, what are the warnings I should know of?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "for the Fredrik desk, what parts do I need?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "for the Fredrik desk, what is the first step?": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "for the Fredrik desk, what is the second step?": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "for the Fredrik desk, what tool do I need for step one?": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "for the Fredrik desk, how many parts do I need for step two?": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "what is the Flisat desk": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "for the Flisat desk, what are the warnings I should know of?": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "for the Flisat desk, what parts do I need?": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "for the Flisat desk, what is the first step?": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "for the Flisat desk, what is the second step?": [
+        891,
+        887,
+        889,
+        888,
+        890
+    ],
+    "for the Flisat desk, how many nails do I need for step one?": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "for the Flisat desk, how many parts do I need for step two?": [
+        891,
+        887,
+        889,
+        888,
+        890
+    ],
+    "what is the vittsjo shelf": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "for the vittsjo shelf, what are the warnings I should know of?": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "for the vittsjo shelf, what parts do I need?": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the vittsjo shelf, what is the first step?": [
+        877,
+        876,
+        871,
+        885,
+        878
+    ],
+    "for the vittsjo shelf, what is the second step?": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the vittsjo shelf, what pieces do I need for step one?": [
+        877,
+        876,
+        871,
+        885,
+        878
+    ],
+    "for the vittsjo shelf, how many parts do I need for step two?": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "what is the vaniljstang shelf": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "for the vaniljstang shelf, what are the warnings I should know of?": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "for the vaniljstang shelf, what parts do I need?": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "for the vaniljstang shelf, what is the first step?": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "for the vaniljstang shelf, what is the second step?": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "for the vaniljstang shelf, what pieces do I need for step one?": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "for the vaniljstang shelf, how many parts do I need for step two?": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "what is the satsumas furniture": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what are the warnings I should know of?": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what parts do I need?": [
+        849,
+        848,
+        847,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what is the first step?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what is the second step?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what pieces do I need for step one?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the satsumas furniture, how many parts do I need for step two?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Explain for the Flisat desk, what are the warnings I should know of? to me.": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "What information is available on what is the vaniljstang shelf?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "for the vaniljstang shelf, what pieces do I need for step one? - what's the scoop?": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Please provide details regarding for the Flisat desk, what parts do I need?.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Tell me what you know about for the Alex desk, what parts do I need?.": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "what is the Alex desk - could you elaborate?": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "Provide more insights about for the vittsjo shelf, what is the second step?.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you shed light on for the satsumas furniture, what is the second step??": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Give me an overview of for the satsumas furniture, what are the warnings I should know of?.": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "for the Flisat desk, what is the first step? - can you give further details?": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "Give me an overview of for the vittsjo shelf, what are the warnings I should know of?.": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "Tell me something regarding for the Fredrik desk, what are the warnings I should know of?.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Tell me what you know about for the satsumas furniture, how many parts do I need for step two?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "I would like to know about for the Pahl desk, how many nails do I need for step one?.": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Tell me what you know about for the vaniljstang shelf, what parts do I need?.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Give me an overview of for the Alex desk, how many parts do I need for step two?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "for the Fredrik desk, what parts do I need? - could you clarify?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "for the Alex desk, what is the second step? - what's the scoop?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Can you elaborate more on what is the vittsjo shelf?": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "Elaborate on for the vaniljstang shelf, what are the warnings I should know of? please.": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "Can you elaborate more on for the vittsjo shelf, how many parts do I need for step two??": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you provide more details on for the Pahl desk, what is the first step??": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Provide more insights about what is the satsumas furniture.": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "Could you provide more details on for the Pahl desk, what are the warnings I should know of??": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "Please explain what is the Pahl desk in detail.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "What do you know about what is the Flisat desk?": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Could you tell me about for the Fredrik desk, what is the second step??": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "Discuss for the Pahl desk, what parts do I need? in depth.": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Can you elaborate more on for the Alex desk, what are the warnings I should know of??": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "What information is available on for the Alex desk, how many nails do I need for step one??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Could you shed light on for the Pahl desk, what is the second step??": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "Break down for the vaniljstang shelf, how many parts do I need for step two? for me.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Could you explain for the vittsjo shelf, what parts do I need? more thoroughly?": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "I need information on for the vaniljstang shelf, what is the second step?.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Please explain for the vaniljstang shelf, what is the first step? in detail.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Break down for the Flisat desk, what are the warnings I should know of? for me.": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "I need information on what is the vaniljstang shelf.": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "Provide more insights about for the vaniljstang shelf, what pieces do I need for step one?.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Tell me something regarding for the Flisat desk, what parts do I need?.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Give me an explanation about for the Alex desk, what parts do I need?.": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Tell me what you know about what is the Alex desk.": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "Break down for the vittsjo shelf, what is the second step? for me.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Give me an overview of for the satsumas furniture, what is the second step?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what are the warnings I should know of? - could you elaborate?": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "Can you elaborate more on for the Flisat desk, what is the first step??": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "Could you tell me about for the vittsjo shelf, what are the warnings I should know of??": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "for the Fredrik desk, what are the warnings I should know of? - could you elaborate?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Provide details about for the satsumas furniture, how many parts do I need for step two?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "What information is available on for the Pahl desk, how many nails do I need for step one??": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Elaborate on for the vaniljstang shelf, what parts do I need? please.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Clarify for the Alex desk, how many parts do I need for step two? for me.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "I need information on for the Fredrik desk, what parts do I need?.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Could you tell me about for the Alex desk, what is the second step??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Discuss what is the vittsjo shelf in depth.": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "Clarify for the vaniljstang shelf, what are the warnings I should know of? for me.": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "for the vittsjo shelf, how many parts do I need for step two? - could you elaborate?": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Can you tell me about for the Pahl desk, what is the first step??": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "What can you say about what is the satsumas furniture?": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "Explain for the Pahl desk, what are the warnings I should know of? to me.": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "Give me an overview of what is the Pahl desk.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Tell me what you know about what is the Flisat desk.": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Discuss for the Fredrik desk, what is the second step? in depth.": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "for the Pahl desk, what parts do I need? - can you give further details?": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Could you provide more details on for the Alex desk, what are the warnings I should know of??": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "Give me an overview of for the Alex desk, how many nails do I need for step one?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Please explain for the Pahl desk, what is the second step? in detail.": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "Discuss for the vaniljstang shelf, how many parts do I need for step two? in depth.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Clarify for the vittsjo shelf, what parts do I need? for me.": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "What information is available on for the vaniljstang shelf, what is the second step??": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Tell me something regarding for the Flisat desk, what are the warnings I should know of?.": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "Could you provide more details on what is the vaniljstang shelf?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "Break down for the vaniljstang shelf, what pieces do I need for step one? for me.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Discuss for the Flisat desk, what parts do I need? in depth.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Please provide details regarding what is the Alex desk.": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "What do you know about for the vittsjo shelf, what is the second step??": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you explain for the satsumas furniture, what are the warnings I should know of? more thoroughly?": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "Break down for the Flisat desk, what is the first step? for me.": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "Give me an explanation about for the vittsjo shelf, what are the warnings I should know of?.": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "for the Fredrik desk, what are the warnings I should know of? - can you give further details?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Explain for the satsumas furniture, how many parts do I need for step two? to me.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Please provide details regarding for the Pahl desk, how many nails do I need for step one?.": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Break down for the vaniljstang shelf, what parts do I need? for me.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Can you tell me about for the Alex desk, how many parts do I need for step two??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "for the Fredrik desk, what parts do I need? - could you elaborate?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Could you explain for the Alex desk, what is the second step? more thoroughly?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Tell me something regarding what is the vittsjo shelf.": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "Give me an explanation about for the vaniljstang shelf, what are the warnings I should know of?.": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "Elaborate on for the vittsjo shelf, how many parts do I need for step two? please.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "what is the satsumas furniture - could you clarify?": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "Tell me something regarding for the Pahl desk, what are the warnings I should know of?.": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "Could you shed light on what is the Pahl desk?": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Can you elaborate more on what is the Flisat desk?": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "for the Fredrik desk, what is the second step? - what's the scoop?": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "for the Pahl desk, what parts do I need? - what's the scoop?": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Clarify for the Alex desk, what are the warnings I should know of? for me.": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "I would like to know about for the Alex desk, how many nails do I need for step one?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Provide details about for the vittsjo shelf, what parts do I need?.": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Discuss for the vaniljstang shelf, what is the second step? in depth.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Could you tell me about for the vaniljstang shelf, what is the first step??": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Can you tell me about for the Flisat desk, what are the warnings I should know of??": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "What do you know about what is the vaniljstang shelf?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "Could you provide more details on for the vaniljstang shelf, what pieces do I need for step one??": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Provide details about for the Flisat desk, what parts do I need?.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "I would like to know about for the Alex desk, what parts do I need?.": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Break down what is the Alex desk for me.": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "Could you provide more details on for the vittsjo shelf, what is the second step??": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Elaborate on for the satsumas furniture, what is the second step? please.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "I need information on for the Flisat desk, what is the first step?.": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "Please provide details regarding for the vittsjo shelf, what are the warnings I should know of?.": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "for the satsumas furniture, how many parts do I need for step two? - could you elaborate?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Discuss for the vaniljstang shelf, what parts do I need? in depth.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "What do you know about for the Alex desk, how many parts do I need for step two??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Can you elaborate more on for the Fredrik desk, what parts do I need??": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Can you elaborate more on for the Alex desk, what is the second step??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "what is the vittsjo shelf - what's the scoop?": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "What information is available on for the vaniljstang shelf, what are the warnings I should know of??": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "Provide details about for the vittsjo shelf, how many parts do I need for step two?.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Break down for the Pahl desk, what is the first step? for me.": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Give me an overview of what is the satsumas furniture.": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "Could you tell me about for the Pahl desk, what are the warnings I should know of??": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "Please provide details regarding what is the Pahl desk.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Could you explain what is the Flisat desk more thoroughly?": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Can you tell me about for the Fredrik desk, what is the second step??": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "Please explain for the Pahl desk, what parts do I need? in detail.": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Tell me something regarding for the Alex desk, what are the warnings I should know of?.": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "Can you elaborate more on for the Alex desk, how many nails do I need for step one??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "I want to understand for the Pahl desk, what is the second step? better.": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "for the vaniljstang shelf, how many parts do I need for step two? - what's the scoop?": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Can you elaborate more on for the vittsjo shelf, what parts do I need??": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the vaniljstang shelf, what is the second step? - could you clarify?": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Provide details about for the vaniljstang shelf, what is the first step?.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Could you shed light on what is the vaniljstang shelf?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "Elaborate on for the vaniljstang shelf, what pieces do I need for step one? please.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "What do you know about for the Flisat desk, what parts do I need??": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Can you tell me about for the Alex desk, what parts do I need??": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Please explain for the vittsjo shelf, what is the second step? in detail.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "I need information on for the satsumas furniture, what is the second step?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what are the warnings I should know of? - can you give further details?": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "for the vittsjo shelf, what are the warnings I should know of? - could you elaborate?": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "I want to understand for the Fredrik desk, what are the warnings I should know of? better.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Break down for the satsumas furniture, how many parts do I need for step two? for me.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "I need information on for the vaniljstang shelf, what parts do I need?.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Give me an explanation about for the Alex desk, how many parts do I need for step two?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Can you tell me about for the Fredrik desk, what parts do I need??": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Discuss for the Alex desk, what is the second step? in depth.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Discuss for the vaniljstang shelf, what are the warnings I should know of? in depth.": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "Clarify for the vittsjo shelf, how many parts do I need for step two? for me.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the Pahl desk, what is the first step? - could you clarify?": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "what is the satsumas furniture - can you give further details?": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "I need information on what is the Pahl desk.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Give me an explanation about what is the Flisat desk.": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Give me an explanation about for the Fredrik desk, what is the second step?.": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "Could you shed light on for the Alex desk, what are the warnings I should know of??": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "Please provide details regarding for the Alex desk, how many nails do I need for step one?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Can you tell me about for the Pahl desk, what is the second step??": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "What do you know about for the vittsjo shelf, what parts do I need??": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the vaniljstang shelf, what is the second step? - could you elaborate?": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "What information is available on for the vaniljstang shelf, what is the first step??": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "what is the vaniljstang shelf - could you elaborate?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "for the vaniljstang shelf, what pieces do I need for step one? - can you give further details?": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Clarify for the Flisat desk, what parts do I need? for me.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Please explain for the Alex desk, what parts do I need? in detail.": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Provide details about what is the Alex desk.": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "I want to understand for the vittsjo shelf, what is the second step? better.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Please explain for the satsumas furniture, what is the second step? in detail.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Provide more insights about for the satsumas furniture, what are the warnings I should know of?.": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "I want to understand for the Flisat desk, what is the first step? better.": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "What information is available on for the vittsjo shelf, what are the warnings I should know of??": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "Could you explain for the Fredrik desk, what are the warnings I should know of? more thoroughly?": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "for the satsumas furniture, how many parts do I need for step two? - could you clarify?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the Pahl desk, how many nails do I need for step one? - could you clarify?": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Explain for the vaniljstang shelf, what parts do I need? to me.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Could you provide more details on for the Alex desk, how many parts do I need for step two??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Give me an explanation about for the Fredrik desk, what parts do I need?.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "I want to understand for the Alex desk, what is the second step? better.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Provide more insights about what is the vittsjo shelf.": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "for the vaniljstang shelf, what are the warnings I should know of? - can you give further details?": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "Discuss for the vittsjo shelf, how many parts do I need for step two? in depth.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "What do you know about what is the satsumas furniture?": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "What do you know about for the Pahl desk, what are the warnings I should know of??": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "I would like to know about what is the Pahl desk.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Elaborate on what is the Flisat desk please.": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Elaborate on for the Fredrik desk, what is the second step? please.": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "Give me an explanation about for the Pahl desk, what parts do I need?.": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "for the Alex desk, what are the warnings I should know of? - can you give further details?": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "Could you explain for the Alex desk, how many nails do I need for step one? more thoroughly?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Give me an overview of for the Pahl desk, what is the second step?.": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "Please provide details regarding for the vaniljstang shelf, how many parts do I need for step two?.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Could you tell me about for the vittsjo shelf, what parts do I need??": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you explain for the vaniljstang shelf, what is the second step? more thoroughly?": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "I need information on for the vaniljstang shelf, what is the first step?.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "for the Flisat desk, what are the warnings I should know of? - could you elaborate?": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "What can you say about what is the vaniljstang shelf?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "Can you tell me about for the vaniljstang shelf, what pieces do I need for step one??": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Please explain for the Flisat desk, what parts do I need? in detail.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Explain for the Alex desk, what parts do I need? to me.": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "What do you know about what is the Alex desk?": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "Tell me something regarding for the vittsjo shelf, what is the second step?.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Tell me something regarding for the satsumas furniture, what is the second step?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Provide more insights about for the vittsjo shelf, what are the warnings I should know of?.": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "What can you say about for the Fredrik desk, what are the warnings I should know of??": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "I need information on for the satsumas furniture, how many parts do I need for step two?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Could you shed light on for the Pahl desk, how many nails do I need for step one??": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "I want to understand for the vaniljstang shelf, what parts do I need? better.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Tell me what you know about for the Alex desk, how many parts do I need for step two?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "What do you know about for the Fredrik desk, what parts do I need??": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Tell me something regarding for the Alex desk, what is the second step?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Clarify what is the vittsjo shelf for me.": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "What can you say about for the vaniljstang shelf, what are the warnings I should know of??": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "I want to understand for the vittsjo shelf, how many parts do I need for step two? better.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the Pahl desk, what is the first step? - could you elaborate?": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Elaborate on for the Pahl desk, what are the warnings I should know of? please.": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "Provide details about what is the Pahl desk.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Please explain what is the Flisat desk in detail.": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Tell me what you know about for the Fredrik desk, what is the second step?.": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "for the Alex desk, how many nails do I need for step one? - could you elaborate?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Could you provide more details on for the Pahl desk, what is the second step??": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "Explain for the vaniljstang shelf, how many parts do I need for step two? to me.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "I want to understand for the vittsjo shelf, what parts do I need? better.": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you provide more details on for the vaniljstang shelf, what is the second step??": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "What do you know about for the vaniljstang shelf, what is the first step??": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Could you tell me about for the Flisat desk, what are the warnings I should know of??": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "Explain for the Flisat desk, what parts do I need? to me.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "I want to understand for the Alex desk, what parts do I need? better.": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Can you elaborate more on what is the Alex desk?": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "Provide details about for the vittsjo shelf, what is the second step?.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "for the satsumas furniture, what is the second step? - can you give further details?": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Give me an overview of for the Flisat desk, what is the first step?.": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "Provide more insights about for the Fredrik desk, what are the warnings I should know of?.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "for the Pahl desk, how many nails do I need for step one? - what's the scoop?": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Give me an overview of for the vaniljstang shelf, what parts do I need?.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Could you explain for the Alex desk, how many parts do I need for step two? more thoroughly?": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Provide more insights about for the Alex desk, what is the second step?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "what is the vittsjo shelf - could you clarify?": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "Provide more insights about for the vaniljstang shelf, what are the warnings I should know of?.": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "What can you say about for the vittsjo shelf, how many parts do I need for step two??": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Provide details about for the Pahl desk, what is the first step?.": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Please explain what is the satsumas furniture in detail.": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "what is the Flisat desk - can you give further details?": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Could you explain for the Fredrik desk, what is the second step? more thoroughly?": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "I would like to know about for the Pahl desk, what parts do I need?.": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "for the Alex desk, what are the warnings I should know of? - what's the scoop?": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "What do you know about for the Alex desk, how many nails do I need for step one??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "I would like to know about for the vaniljstang shelf, how many parts do I need for step two?.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "I would like to know about for the vittsjo shelf, what parts do I need?.": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Tell me something regarding for the vaniljstang shelf, what is the first step?.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Could you explain for the Flisat desk, what are the warnings I should know of? more thoroughly?": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "Give me an overview of for the Flisat desk, what parts do I need?.": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "Could you shed light on for the Alex desk, what parts do I need??": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Can you tell me about what is the Alex desk?": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "I need information on for the vittsjo shelf, what is the second step?.": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you tell me about for the satsumas furniture, what is the second step??": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "for the satsumas furniture, what are the warnings I should know of? - could you clarify?": [
+        848,
+        847,
+        849,
+        857,
+        858
+    ],
+    "Clarify for the Flisat desk, what is the first step? for me.": [
+        890,
+        887,
+        889,
+        888,
+        891
+    ],
+    "Give me an overview of for the Fredrik desk, what are the warnings I should know of?.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Could you tell me about for the satsumas furniture, how many parts do I need for step two??": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "What can you say about for the Pahl desk, how many nails do I need for step one??": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "for the vaniljstang shelf, what parts do I need? - could you elaborate?": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "What information is available on for the Alex desk, how many parts do I need for step two??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "I want to understand for the Fredrik desk, what parts do I need? better.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Please explain for the Alex desk, what is the second step? in detail.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Could you provide more details on what is the vittsjo shelf?": [
+        871,
+        876,
+        885,
+        884,
+        883
+    ],
+    "Tell me what you know about for the vaniljstang shelf, what are the warnings I should know of?.": [
+        860,
+        859,
+        861,
+        869,
+        870
+    ],
+    "Can you tell me about for the vittsjo shelf, how many parts do I need for step two??": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "I would like to know about for the Pahl desk, what is the first step?.": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Please provide details regarding what is the satsumas furniture.": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "for the Pahl desk, what are the warnings I should know of? - could you elaborate?": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "Discuss what is the Pahl desk in depth.": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "Please provide details regarding what is the Flisat desk.": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "Please provide details regarding for the Fredrik desk, what is the second step?.": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "Could you provide more details on for the Pahl desk, what parts do I need??": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Provide more insights about for the Alex desk, how many nails do I need for step one?.": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "Provide more insights about for the Pahl desk, what is the second step?.": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "Provide more insights about for the vittsjo shelf, what parts do I need?.": [
+        876,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Give me an explanation about for the vaniljstang shelf, what is the second step?.": [
+        863,
+        859,
+        862,
+        861,
+        870
+    ],
+    "Give me an overview of for the vaniljstang shelf, what is the first step?.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "for the Flisat desk, what are the warnings I should know of? - could you clarify?": [
+        888,
+        887,
+        889,
+        890,
+        891
+    ],
+    "what is the vaniljstang shelf - could you clarify?": [
+        859,
+        860,
+        861,
+        869,
+        870
+    ],
+    "I want to understand for the vaniljstang shelf, what pieces do I need for step one? better.": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ],
+    "Can you elaborate more on for the Flisat desk, what parts do I need??": [
+        889,
+        887,
+        888,
+        890,
+        891
+    ],
+    "What do you know about for the Alex desk, what parts do I need??": [
+        925,
+        924,
+        923,
+        926,
+        927
+    ],
+    "Could you provide more details on what is the Alex desk?": [
+        923,
+        924,
+        925,
+        926,
+        927
+    ],
+    "What information is available on for the vittsjo shelf, what is the second step??": [
+        878,
+        871,
+        885,
+        884,
+        883
+    ],
+    "Could you shed light on for the vittsjo shelf, what are the warnings I should know of??": [
+        872,
+        873,
+        874,
+        875,
+        871
+    ],
+    "Can you tell me about for the Fredrik desk, what are the warnings I should know of??": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "Tell me something regarding for the satsumas furniture, how many parts do I need for step two?.": [
+        850,
+        847,
+        851,
+        857,
+        858
+    ],
+    "Elaborate on for the Pahl desk, how many nails do I need for step one? please.": [
+        917,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Clarify for the vaniljstang shelf, what parts do I need? for me.": [
+        861,
+        859,
+        862,
+        869,
+        870
+    ],
+    "Can you elaborate more on for the Alex desk, how many parts do I need for step two??": [
+        926,
+        925,
+        924,
+        923,
+        927
+    ],
+    "I would like to know about for the Fredrik desk, what parts do I need?.": [
+        908,
+        907,
+        909,
+        910,
+        911
+    ],
+    "I would like to know about what is the satsumas furniture.": [
+        847,
+        848,
+        849,
+        857,
+        858
+    ],
+    "Provide more insights about for the Pahl desk, what are the warnings I should know of?.": [
+        916,
+        915,
+        917,
+        918,
+        919
+    ],
+    "What information is available on what is the Pahl desk?": [
+        915,
+        916,
+        917,
+        918,
+        919
+    ],
+    "I would like to know about what is the Flisat desk.": [
+        887,
+        888,
+        889,
+        890,
+        891
+    ],
+    "What information is available on for the Fredrik desk, what is the second step??": [
+        909,
+        907,
+        908,
+        909,
+        910
+    ],
+    "Tell me what you know about for the Pahl desk, what parts do I need?.": [
+        916,
+        915,
+        916,
+        918,
+        919
+    ],
+    "Give me an explanation about for the Alex desk, what are the warnings I should know of?.": [
+        924,
+        923,
+        925,
+        926,
+        927
+    ],
+    "Please provide details regarding for the Pahl desk, what is the second step?.": [
+        918,
+        915,
+        916,
+        917,
+        919
+    ],
+    "for the vaniljstang shelf, what is the first step? - could you clarify?": [
+        862,
+        859,
+        861,
+        863,
+        870
+    ]
+}
