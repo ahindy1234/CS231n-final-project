@@ -1,4 +1,4 @@
 data_augmentation/data_wiki/*
 data_wiki/
 data_augmentation/augmented_data/*
-
+data_augmentation/embeddings/*
